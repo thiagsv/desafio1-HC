@@ -192,6 +192,12 @@ html {
 
     }
 
+    .textContent {
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 12%;
+    }
+
     .timer{
         display: flex;
         flex-direction: row;
@@ -231,6 +237,11 @@ html {
     }
     .begin {
         align-content: center;
+        width: 100%; 
+    }
+    
+    .footer{
+        width: 100%;
     }
 
 }
